@@ -20,6 +20,6 @@ Yes, but make sure they are relevant to each video. Consistent hashtags help in 
 ## Is There a Difference Between YouTube Hashtags and Tags?
 Yes. Tags are metadata added during video upload, invisible to viewers but important for search ranking. Hashtags, on the other hand, are visible and can be clicked by viewers to find related content.
 
-![seostudio](/seostudio.png)
+![seostudio](/seostudio.jpg)
 
 In today’s competitive digital landscape, using hashtags effectively can help you grow your YouTube channel by attracting the right audience. With the variety of free YouTube hashtag generators available, there’s no excuse not to leverage this powerful tool. Start optimizing your hashtag strategy today, test the waters with different combinations, and monitor your results to ensure your content reaches the widest audience possible.
